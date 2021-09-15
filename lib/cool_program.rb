@@ -5,7 +5,7 @@ class CoolProgram
   attr_reader :coolness
 
   def initialize
-    @coolness = 12
+    @coolness = 11
   end
 end
 

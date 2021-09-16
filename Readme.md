@@ -8,7 +8,6 @@ Build up a list of inputs and expected outputs. Those are your assertions your t
 "00:01:53" => 113
 "00:00:00" => 0
 "a" => Error # Invalid format
-"aa:00:00" => Error # Invalid format
 "000:000:123" => Error # Invalid format
 15 => Error # Should be a string
 ```

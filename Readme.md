@@ -1,4 +1,4 @@
-# ruby_project
+# Ruby project: Time to seconds conversor
 
 Make up a method that converts strings like "00:01:53" to seconds (113 seconds). It's super simple and you can throw lots of different cases at it to learn how to test edge cases and errors.
 
@@ -11,8 +11,6 @@ Build up a list of inputs and expected outputs. Those are your assertions your t
 "000:000:123" => Error # Invalid format
 15 => Error # Should be a string
 ```
-
-The coolest dang program that you ever did see.
 
 ## Dependencies
 
